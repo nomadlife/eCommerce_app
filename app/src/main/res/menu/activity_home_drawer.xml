@@ -7,27 +7,27 @@
         <item
             android:id="@+id/nav_cart"
             android:icon="@drawable/nav_cart"
-            android:title="Cart"
+            android:title="잠바구니"
             android:iconTint="@android:color/white"/>
         <item
             android:id="@+id/nav_orders"
             android:icon="@drawable/orders"
-            android:title="Orders"
+            android:title="주문내역"
             android:iconTint="@android:color/white"/>
         <item
             android:id="@+id/nav_categories"
             android:icon="@drawable/category"
-            android:title="Categories"
+            android:title="카테고리"
             android:iconTint="@android:color/white"/>
         <item
             android:id="@+id/nav_settings"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Settings"
+            android:title="설정"
             android:iconTint="@android:color/white"/>
         <item
             android:id="@+id/nav_logout"
             android:icon="@drawable/logout"
-            android:title="Logout"
+            android:title="로그아웃"
             android:iconTint="@android:color/white"/>
     </group>
 
